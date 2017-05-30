@@ -4,7 +4,7 @@
   "description": "dzen2 binary as a node module.",
   "main": "index.js",
   "bin": {
-    "dzen2": "src/dzen2"
+    "dzen2": "bin.js"
   },
   "scripts": {
     "postinstall": "node install.js"
