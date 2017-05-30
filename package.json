@@ -1,0 +1,15 @@
+{
+  "name": "dzen2-bin",
+  "version": "0.0.0",
+  "description": "dzen2 binary as a node module.",
+  "main": "index.js",
+  "bin": {
+    "dzen2": "src/dzen2"
+  },
+  "scripts": {
+    "postinstall": "node install.js"
+  },
+  "keywords": [],
+  "author": "Renée Kooi <renee@kooi.me>",
+  "license": "MIT"
+}
