@@ -9,7 +9,12 @@
   "scripts": {
     "postinstall": "node install.js"
   },
-  "keywords": [],
+  "keywords": [
+    "dzen",
+    "dzen2",
+    "menu"
+  ],
   "author": "Renée Kooi <renee@kooi.me>",
+  "repository": "goto-bus-stop/dzen2-bin",
   "license": "MIT"
 }
