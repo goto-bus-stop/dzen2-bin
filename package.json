@@ -1,6 +1,6 @@
 {
   "name": "dzen2-bin",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "dzen2 binary as a node module.",
   "main": "index.js",
   "bin": {
