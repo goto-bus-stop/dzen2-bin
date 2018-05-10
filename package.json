@@ -1,7 +1,7 @@
 {
   "name": "dzen2-bin",
   "description": "dzen2 binary as a node module.",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "author": "Renée Kooi <renee@kooi.me>",
   "bin": {
     "dzen2": "bin.js"
