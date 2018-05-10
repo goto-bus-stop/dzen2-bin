@@ -1,20 +1,22 @@
 {
   "name": "dzen2-bin",
-  "version": "1.0.2",
   "description": "dzen2 binary as a node module.",
-  "main": "index.js",
+  "version": "1.0.2",
+  "author": "Renée Kooi <renee@kooi.me>",
   "bin": {
     "dzen2": "bin.js"
   },
-  "scripts": {
-    "postinstall": "node install.js"
-  },
+  "bugs": "https://github.com/goto-bus-stop/dzen2-bin/issues",
+  "homepage": "https://github.com/goto-bus-stop/dzen2-bin",
   "keywords": [
     "dzen",
     "dzen2",
     "menu"
   ],
-  "author": "Renée Kooi <renee@kooi.me>",
+  "license": "MIT",
+  "main": "index.js",
   "repository": "goto-bus-stop/dzen2-bin",
-  "license": "MIT"
+  "scripts": {
+    "postinstall": "node install.js"
+  }
 }
